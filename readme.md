@@ -1,3 +1,3 @@
-# empty-webpack-project
+# empty-vue-project
 
-An empty webpack 4 project with development and production settings.
+An empty vue project based on webpack 4.
